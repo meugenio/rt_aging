@@ -1,0 +1,7 @@
+%usr - mostra a porcentagem do uso da CPU no modo usuário
+%sys - mostra a porcentagem do uso da CPU no modo kernel
+%iowait - mostra a porcentagem do tempo que a CPU está ociosa durante uma requisição do disco
+%idle - mostra a porcentagem do tempo que a CPU está ociosa quando não tem uma requisição em disco
+date 
+time
+na latencia os dados estão em nanosegundos
